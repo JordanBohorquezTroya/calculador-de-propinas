@@ -1,4 +1,4 @@
-# Calculadora de Propina
+# Calculadora de Propinas
 
 Este proyecto proporciona una herramienta para calcular propinas y el total a pagar basado en el monto de la factura y un porcentaje de propina definido por el usuario.
 
